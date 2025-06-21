@@ -29,5 +29,5 @@ def count_function2(count_vector):
 #this is example code showing how to pass a vector to a function
 
 my_vector = [1, 3, -6, -4, -1, 2]
-ans= count_function2(my_vector)
+ans= count_function(my_vector)
 print (ans)
