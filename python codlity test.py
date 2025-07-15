@@ -18,7 +18,7 @@ def count_function(count_vector):
             break
 
 
-#nate's version which is probably better?
+#alternative version which is probably better?
 def count_function2(count_vector):
     for j in range (1000000):
         if j+1 in count_vector:
